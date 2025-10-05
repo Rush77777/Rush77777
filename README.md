@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushikesh Dal
 
-<!--
-**Rush77777/Rush77777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Web Developer | 🎯 R&D Enthusiast | 🌱 Learning Full Stack Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on: Restaurant Management Systems & Movie ticket booking System  
+- 🌱 Learning: React, Laravel, PHP,  
+- 💬 Ask me about: Web development and SQL projects  
+- 📫 Reach me at: rishiidal@example.com  
+
+---
+
+### 🧠 Skills
+- HTML | CSS | JavaScript  
+- PHP | Laravel | SQL  
+- React (Beginner) | Bootstrap  
