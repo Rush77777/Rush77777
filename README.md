@@ -8,7 +8,7 @@
 - 🔭 Currently working on: Restaurant Management Systems & Movie ticket booking System  
 - 🌱 Learning: React, Laravel, PHP,  
 - 💬 Ask me about: Web development and SQL projects  
-- 📫 Reach me at: rishiidal@example.com  
+- 📫 Reach me at: rishiidal@gmail.com  
 
 ---
 
