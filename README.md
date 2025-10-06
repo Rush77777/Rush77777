@@ -15,4 +15,5 @@
 ### 🧠 Skills
 - HTML | CSS | JavaScript  
 - PHP | Laravel | SQL  
-- React (Beginner) | Bootstrap  
+- React (Beginner) | Bootstrap 
+- Wordpress
